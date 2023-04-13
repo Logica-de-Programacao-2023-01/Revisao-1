@@ -1,7 +1,7 @@
 package q3
 
 import (
-	"revisao-1/utils"
+	"github.com/revisao-1/utils"
 	"testing"
 )
 
